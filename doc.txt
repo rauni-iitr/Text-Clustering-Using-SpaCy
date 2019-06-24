@@ -1,0 +1,329 @@
+Paragraph 1. Interpretation
+
+Definitions and Inconsistency.Capitalized terms not otherwise defined herein or elsewhere in the Agreement have the meanings specified pursuant to Paragraph 12, and all references in this Annex to Paragraphs are to Paragraphs of this Annex. In the event of any inconsistency between this Annex and the provisions of the Agreement, this Annex will prevail, and in the event of any inconsistency between Paragraph 13 and the other provisions of this Annex, Paragraph 13 will prevail.
+
+Obligee and Obligor. All references in this Annex to the "Obligee" will be to either party when acting as a borrower or a secured party and all corresponding references to the "Obligor" will be to the other party when acting as a lender or a pledgor.
+
+
+Paragraph 2. Security Transaction
+
+Loan. Each party, as the Obligor, hereby lends Lending Collateral to the other party, as the Obligee, as credit support for its Obligations, and grants to the Obligee right of Set-off as set forth in Paragraph 8 (a) (iii). If an Early Termination Date has been designated or deemed to occur as a result of an Event of Default or a Specified Condition, subject to the provisions of Paragraphs 3(b), 4(d) and 8, the Obligee shall return Posted Lending Collateral, free and clear of any lien, charge, mortgage, encumbrance or other security interest to the Obligor; provided, however, that where such Posted Lending Collateral is held in the form of securities, the Obligee may repay the cash equivalent thereof in the currency in which such securities are denominated or in Termination Currency at the option of the Obligee.
+
+Pledge. Each party, as the Obligor, hereby grants to the other party, as theObligee, as security for its Obligations, a first priority continuing security interest (including, without limitation, a statutory pledge (Shichiken)) in, and the rights which a pledgee may have under applicable law (including the right to collect the pledged claim and, to the extent not prohibited under applicable law, to acquire the ownership of the Pledging Collateral in pro tanto satisfaction of the Obligations) with respect to, Pledging Collateral Transferred to the Obligee hereunder, which is given effect to upon the Transfer by the Obligor of such Pledging Collateral; provided that such security interest shall be a statutory pledge (Shichiken), unless otherwise agreed upon between the parties. Upon the Transfer by the Obligee to the Obligor of Posted Pledging Collateral, the security interest granted hereunder in that Posted Pledging Collateral will be released immediately and, to the extent possible, without any further action by either party.
+
+Paragraph 3. Credit Support Obligations
+
+Delivery Amount. Subject to Paragraphs 4 and 5, upon a demand made by the Obligee on or promptly following a Valuation Date, if the Delivery Amount for that Valuation Date equals or exceeds the Obligor's Minimum Transfer Amount, then the Obligor will Transfer to the Obligee Eligible Credit Support having a Value as of the date of Transfer at least equal to the applicable Delivery Amount (rounded pursuant to Paragraph 13).Unless otherwise specified in Paragraph 13,the "Delivery Amount" applicable to the Obligor for any Valuation Date will equal the amount by which:
+
+the Credit Support Amount exceeds
+the Value as of that Valuation Date of all Posted Credit Support held by the Obligee.
+
+Return Amount. Subject to Paragraphs 4 and 5, upon a demand made by the Obligor on or promptly following a Valuation Date, if the Return Amount for that Valuation Date equals or exceeds the Obligee's Minimum Transfer Amount, then the Obligee will Transfer to the Obligor Posted Credit Support as specified by the Obligor in that demand having a Value as of the date of Transfer as close as practicable to the applicable Return Amount (rounded pursuant to Paragraph 13); provided, however, that where such Posted Credit Support consists of Posted Lending Collateral in the form of securities, the Obligee may Transfer to the Obligor Equivalent Collateral or repay cash equivalent thereof in the currency in which such securities are denominated or in Termination Currency. For this purpose, Transfer of the cash equivalent of any Posted Lending Collateral shall be deemed to be a return of such Posted Lending Collateral. However, solely for the purpose of this Paragraph 3(b), the Obligee's right to repay any cash equivalent is subject to the prior consent of the Obligor. Unless otherwise specified in Paragraph 13, the "Return Amount" applicable to the Obligee for any Valuation Date will equal the amount by which:
+
+the Value as of that Valuation Date of all Posted Credit Support held by the Obligee exceeds
+the Credit Support Amount.
+
+"Credit Support Amount" means, unless otherwise specified in Paragraph 13, for any Valuation Date
+(i) the Obligee's Exposure for that Valuation Date plus (ii) the aggregate of all Independent Amounts applicable to the Obligor, if any, minus (iii) all Independent Amounts applicable to the Obligee, if any, minus (iv) the Obligor's Threshold; provided however, that the Credit Support Amount will be deemed to be zero whenever the calculation of the Credit Support Amount yields a number less than zero.
+
+Paragraph 4. Conditions Precedent, Transfer Timing, Calculations and Substitutions
+
+Conditions Precedent. Each Transfer obligation of the Obligor under Paragraphs 3(a) and 5 and of the Obligee under Paragraphs 3(b), 4(d)(ii), 5 and 6(e) is subject to the conditions precedent that:
+
+no Event of Default, Potential Event of Default or Specified Condition has occurred and is continuing with respect to the other party; and
+
+no Early Termination Date for which any unsatisfied payment obligations exist has occurred or been designated as the result of an Event of Default or Specified Condition with respect to the other party.
+
+Transfer Timing. Subject to Paragraphs 4(a) and 5 and unless otherwise specified, if a demand for the Transfer of Eligible Credit Support or Posted Credit Support is made by the Notification Time, then the relevant Transfer will be made not later than the close of business on the third Local Business Day following the date of such demand; if a demand is made after the Notification Time, then the relevant Transfer will be made not later than the close of business on the fourth Local Business Day following the date of such demand.
+
+Calculations. All calculations of Value and Exposure for the purposes of Paragraphs 3 and 6(e) will be made by the Valuation Agent as of the Valuation Time. The Valuation Agent will notify each party (or the other party, if the Valuation Agent is a party) of its calculations not later than the Notification Time on the Local Business Day following the applicable Valuation Date (or in the case of Paragraph 6(e), following the date of calculation).
+
+
+Substitutions.
+
+Unless otherwise specified in Paragraph 13, upon notice to the Obligee specifying the items of Posted Credit Support to be exchanged, the Obligor may, on any Local Business Day, Transfer to the Obligee substitute Eligible Credit Support (the "Substitute Credit Support"); and
+
+subject to Paragraph 4(a), the Obligee will Transfer to the Obligor the items of Posted Credit Support specified by the Obligor in its notice not later than the third Local Business Day following the date on which the Obligee receives the Substitute Credit Support, unless otherwise specified in Paragraph 13 (the "Substitution Date"); provided that the Obligee will only be obligated to Transfer Posted Credit Support with a Value as of the date of Transfer of that Posted Credit Support equal to the Value as of that date of the relevant Substitute Credit Support. However, solely for the purpose of this Paragraph 4(d)(ii), the Obligee's right to repay any cash equivalent of any Posted Lending Collateral is subject to the prior consent of the Obligor.
+
+Paragraph 5.	Dispute Resolution
+
+If a party (a "Disputing Party") disputes (I) the Valuation Agent's calculation of a Delivery Amount or a Return Amount or (II) the Value of any Transfer of Eligible Credit Support or Posted Credit Support, then (1) the Disputing Party will notify the other party and the Valuation Agent (if the Valuation Agent is not the other party) not later than the close of business on the Local Business Day following
+the date that the demand is made under Paragraph 3 in the case of (I) above or (Y) the date of Transfer in the case of (II) above, (2) subject to Paragraph 4(a), the appropriate party will Transfer the undisputed amount to the other party not later than the close of business on the third Local Business Day following (X) the date that the demand is made under Paragraph 3 in the case of (I) above or (Y) the date of Transfer in the case of (II) above, (3) the parties will consult with each other in an attempt to resolve the dispute and (4) if they fail to resolve the dispute by the Resolution Time, then:
+
+In the case of a dispute involving a Delivery Amount or Return Amount, unless otherwise specified in Paragraph 13, the Valuation Agent will recalculate the Exposure andthe Value as of the Recalculation Date by:
+
+utilizing any calculations of Exposure for the Transactions that the parties have agreed are not in dispute;
+
+calculating the Exposure for the Transactions in dispute by seekingfour actual quotations at mid-market from Reference Market-makers for purposes of calculating Market Quotation, and taking the arithmetic average of those obtained; provided that if four quotations are not available for a particular Transaction, then fewer than four quotations may be used for that Transaction; and if no quotations are available for a particular Transaction, then the Valuation Agent's original calculations will be used for that Transaction; and *
+
+
+
+Replace with the 2002 Paragraphs below when 2002 ISDA Master Agreement is used.
+
+
+
+utilizing the procedures specified in Paragraph 13 for calculating the Value, if disputed, of the relevant Eligible Credit Support and Posted Credit Support.
+
+In the case of a dispute involving the Value of any Transfer of Eligible Credit Support or Posted Credit Support, the Valuation Agent will recalculate the Value as of the date of Transfer pursuant to Paragraph 13.
+
+Following a recalculation pursuant to this Paragraph, the Valuation Agent will notify each party (orthe other party, if the Valuation Agent is a party) not later than the Notification Time on the Local Business Day following the Resolution Time. The appropriate party will, upon demand following that notice by the Valuation Agent or a resolution after consultation pursuant to (3) above and subject to Paragraphs 4(a) and 4(b), not later than three Local Business Days after the demand, make the appropriate Transfer.
+
+Paragraph 6. Holding and Using Posted Collateral
+
+Rights of Obligee to Posted Lending Collateral. Until the Obligee is required, pursuant to the terms of this Annex, to return any Posted Lending Collateral, the Obligee shall be entitled to have all of the incidents of ownership of such Posted Lending Collateral, including without limitation, the right to sell, transfer, lend or otherwise dispose of, and register or record in the name of the Obligee, its Custodian or a nominee for such Posted Lending Collateral.
+
+For purposes of the obligation to Transfer Eligible Credit Support or Posted Credit Support pursuant to Paragraphs 3, 5 and 6(e) and any rights or remedies authorized under this Annex, the Obligee will be deemed to continue to hold all Posted Lending Collateral and, unless the Obligor receives Distributions made thereon with the consent of the Obligee, will be deemed to receive such Distributions, regardless of whether the Obligee has exercised any rights with respect to any Posted Lending Collateral pursuant to Paragraph 6(a).
+
+Care of Posted Pledging Collateral. Without limiting the Obligee's rights under Paragraph 6(d), the Obligee will exercise at least the same degree of care as it would exercise with respect to its own property to assure the safe custody of all Posted Pledging Collateral. Except as specified in the preceding sentence, the Obligee will have no duty with respect to Posted Pledging Collateral, including, without limitation, any duty to collect any Distributions, or enforce or preserve any rights pertaining thereto.
+
+Eligibility to Hold Posted Pledging Collateral; Custodians.
+
+General. Subject to the satisfaction of any conditions specified in Paragraph 13 for holding Posted Collateral, the Obligee will be entitled to hold Posted Pledging Collateral or to appoint an agent (a "Custodian") to hold Posted Pledging Collateral for the Obligee. Upon notice by the Obligee to the Obligor of the appointment of a Custodian, the Obligor's obligations to make any Transfer will be discharged by making the Transfer to that Custodian. The holding of Posted Pledging Collateral by a Custodian will be deemed to be the holding of that Posted Pledging Collateral by the Obligee for which the Custodian is acting.
+
+Failure to Satisfy Conditions. If the Obligee or its Custodian fails to satisfy any
+
+
+
+conditions for holding Posted Pledging Collateral, then upon a demand made by the Obligor, the Obligee will, not later than seven Local Business Days after the demand, Transfer or cause its Custodian to Transfer, all Posted Pledging Collateral held by it to a Custodian that satisfies those conditions or to the Obligee if it satisfies those conditions.
+
+Liability. The Obligee will be liable for the acts or omissions of its Custodian to the same extent that the Obligee would be liable hereunder for its own acts or omissions.
+
+Use of Posted Pledging Collateral. Unless otherwise specified in Paragraph 13 and without limiting the rights and obligations of the parties under Paragraphs 3, 4(d)(ii), 5, 6(e) and 8, if the Obligee is not a Defaulting Party or an Affected Party with respect to a Specified Condition and no Early Termination Date has occurred or been designated as the result of an Event of Default or Specified Condition with respect to the Obligee, then the Obligee shall have the right to:
+
+re-pledge or re-hypothecate any Posted Pledging Collateral it holds, free from any claim or right of any nature whatsoever of the Obligor, to the extent permitted under applicable law; and
+
+register or record any relevant security interest (including the re-pledge or re- hypothecation granted under Paragraph 6(d)(i) above) over any Posted Pledging Collateral in accordance with any applicable law.
+
+For purposes of the obligation to Transfer Eligible Credit Support or Posted Credit Support pursuant to Paragraphs 3, 5 and 6(e) and any rights or remedies authorized under this Annex, the Obligee will be deemed to continue to hold all Posted Pledging Collateral and, unless the Obligor has received Distributions made thereon with the consent of the Obligee, will be deemed to receive such Distributions, regardless of whether the Obligee has exercised any rights with respect to any Posted Pledging Collateral pursuant to (i) or (ii) above.
+
+Distributions and Interest Amount.
+
+Distributions. Subject to Paragraph 4(a), if the Obligee or its Custodian receives or is deemed to receive Distributions pursuant to Paragraphs 6(a) and 6(d) on any day, the Obligee will, or will cause its Custodian to, Transfer to the Obligor not later than the third Local Business Day thereafter any Distributions it or its Custodian receives or is deemed to receive pursuant to Paragraphs 6(a) and/or 6(d) to the extent that a Delivery Amount would not be created or increased by that Transfer, as calculated by the Valuation Agent (and the date ofcalculation will be deemed to be a Valuation Date for this purpose).
+
+Interest Amount. Unless otherwise specified in Paragraph 13 and subjectto Paragraph 4(a), in lieu of any interest, dividends or other amounts paid or deemed to have been paid with respect to Posted Lending Collateral in the form of cash (all of which may be retained by the Obligee) during any Interest Period, the Obligee will Transfer to the Obligor at the times specified in Paragraph 13 the Interest Amount for such Interest Period less any applicable withholding tax to the extent that a Delivery Amount would not be created or increased by that Transfer, as calculated by the Valuation Agent (and the date of calculation will be deemed to be a Valuation Date for this purpose). The Interest Amount or portion
+
+
+
+thereof not Transferred pursuant to this Paragraph will constitute Posted Lending Collateral in the form of cash. The provisions of Section 2(d) of the Agreement shall not apply with respect to payment of the Interest Amount under this Annex, and any withholding tax which may be imposed on the Interest Amount shall not constitute an Indemnifiable Tax under the Agreement; provided, however, that this provision shall not diminish or extinguish any obligation of the parties under Section 4(a)(iii) of the Agreement.
+
+Paragraph 7. Events of Default
+
+For purposes of Section 5(a)(iii)(1) of the Agreement, an Event of Default will exist with respect to a party if:
+
+that party fails (or fails to cause its Custodian) to make, when due, any Transfer of Eligible Collateral, Posted Collateral, Distributions or the Interest Amount, as applicable, required to be made by it and that failure continues for three Local Business Days after notice of that failure is given to that party;
+
+that party fails to comply with any restriction or prohibition specified in this Annex with respect to any of the rights specified in Paragraph 6(d) and that failure continues for three Local Business Days after notice of that failure is given to that party; or
+
+that party fails to comply with or perform any agreement or obligations under this Annex other than those specified in Paragraphs 7(i) and 7(ii) and that failure continues for 30 days after notice of that failure is given to that party.
+
+Paragraph 8.	Certain Rights and Remedies
+
+Parties' Rights and Remedies with respect to Posted Credit Support. If at any time, (1) an Event of Default or Specified Condition with respect to a party has occurred and is continuing or (2) an Early Termination Date has occurred or been designated as the result of an Event of Default or Specified Condition with respect to a party (such party being referred to in this Paragraph 8 as the “Non-exercising Party”), then, unless the Non-exercising Party has paid in full all of its Obligations that are then due, the other party (such party being referred to in this Paragraph 8 as the “Exercising Party”) may exercise one or more of the following rights and remedies:
+
+all rights and remedies available under applicable law to reduce all the Obligations of each party (including any claims and Obligations with respect to all Posted Lending Collateral) to a claim for a single amount;
+
+any other rights and remedies available to the Exercising Party under the terms of the Posted Other Support, if any;
+
+the right to Set-off any amounts payable by the Obligor with respect to any Obligations against Posted Lending Collateral without any prior notice or formalities which might otherwise be required, in such order as the Exercising Party may elect, to the extent permitted under applicable law; provided, however, that, where such Posted Lending Collateral consists of securities, the Obligee shall be deemed to have opted to repay the cash
+
+
+
+equivalent of such securities pursuant to Paragraph 2(a) for the purposes of this paragraph, provided further that where Automatic Early Termination is applicable and all outstanding Transactions will be terminated without action by the parties, all amounts payable by the Obligor with respect to all of the Obligations shall be deemed to be Set-off against all of the Posted Lending Collateral immediately upon such termination;
+
+if the Exercising Party is the Obligee, all rights and remedies available under applicable law with respect to Posted Pledging Collateral including, without limitation, the right to liquidate any Posted Pledging Collateral through one or more public or private sales or other dispositions, subject to the giving of such notice, if any, as may be required under applicable law, free from any claim or right of any nature whatsoever of the Obligor,including any right of redemption of the Obligor (provided that, the Obligee shall have the right to purchase any or all of the Posted Pledging Collateral to be sold) and to apply the proceeds from the liquidation of such Posted Pledging Collateral towards the satisfaction of any amounts payable by the Obligor with respect to any Obligations (including, but not limited to, any costs and expenses payable pursuant to Paragraph 10 (c)) in such order as the Obligee may elect and without any prior notice or formalities which might otherwise be required;
+
+if the Exercising Party is the Obligee, the right to withdraw any Posted Pledging Collateral in the form of a Cash Deposit from the Deposit Account and apply the principal and interest of such Cash Deposit towards the satisfaction of any amounts payable by the Obligor with respect to any Obligations in such order as the Obligee may elect and without any prior notice or formalities which might otherwise be required; and
+
+if the Exercising Party is the Obligor, the right to demand Transfer of all Posted Pledging Collateral and any accrued but unpaid Interest Amount to the Obligor only to the extent that aggregate of such amounts exceeds the amount payable by the Obligor with respect to any Obligations; and to the extent that Posted Pledging Collateral or the Interest Amount is not so Transferred, until such Posted Pledging Collateral and Interest Amount is Transferredto the Obligor, the right to withhold payment of any remaining amounts payable by the Obligor with respect to any Obligations, up to the Value of any remaining Posted Pledging Collateral held by the Obligee.
+
+For the purposes of (i), (iii), (iv) and (v) above, the Exercising Party shall be entitled to make any currency conversions or effect any transaction in currencies which it thinks fit, and to do so at such times and rates as it thinks proper, to the extent permitted under applicable law and subject to Paragraph 11(d).
+
+In the event that a Specified Condition occurs with respect to both parties, the Exercising Party for the purposes of this Paragraph 8(a) shall be the party to whom the amount determined pursuant to Section 6(e) of the Agreement in respect of the Termination Event resulting from such Specified Condition is payable.
+
+Each party acknowledges and agrees that Posted Collateral in the form of securities may decline speedily in value and is of a type customarily sold on a recognized market, and, accordingly, the Obligor is not entitled to prior notice of any sale of that Posted Collateral by the Obligee, except any
+
+
+
+notice that is required under applicable law and cannot be waived.
+
+Deficiencies and Excess Proceeds. The Obligee will Transferto the Obligor any proceeds and Posted Credit Support remaining after liquidation, Set-off and/or application under Paragraph 8(a) after satisfaction in full of all amounts payable by the Obligor with respect to any Obligations; the Obligor in all events will remain liable for any amounts remaining unpaid after any liquidation, Set-off and/or application under Paragraph 8(a).
+
+Final Returns. When no amounts are, or thereafter may become, payable by the Obligor with respect to any Obligations (except for any potential liability under Section 2(d) of the Agreement), the Obligee will Transfer to the Obligor all Posted Credit Support and the outstanding Interest Amount for the current Interest Period, if any.
+
+Paragraph 9.	Representations
+
+Each party represents to the other party (which representations will be deemed to be repeated as of each date on which it, as the Obligor, Transfers Eligible Collateral) that:
+
+it has the power to lend, or grant a security interest in, any Eligible Collateral it Transfers as the Obligor and has taken all necessary actions to authorize the lending or granting of that security interest;
+
+it is the sole owner of or otherwise has the right to Transfer all Eligible Collateral it Transfers to the Obligee hereunder, free and clear of any security interest, lien, encumbrance or other restrictions or in case of re-pledge or re-hypothecation it has the right to Transfer all Eligible Collateral which it Transfers to the Obligee hereunder for such purposes without any restriction, as the case may be, other than the set-off right or security interest granted under Paragraph 2; and
+
+upon the Transfer in compliance by the Obligor with Paragraph 2(b), of any Pledging Collateral to the Obligee under the terms of this Annex, the Obligee will have a valid and perfected first priority security interest therein (assuming that any central clearing corporation or any third-party financial intermediary or other entity not within the control of the Obligor involved in the Transfer of that Pledging Collateral gives the notices and takes the action required of it under applicable law for perfection of that interest).
+
+Paragraph 10. Expenses
+
+General. Except as otherwise provided in Paragraphs 10(b) and 10(c), each party will pay its own costs and expenses in connection with performing its obligations under this Annex and neither party will be liable for any costs and expenses incurred by the other party in connection herewith.
+
+Posted Credit Support. The Obligor will promptly pay when due all taxes, assessments or charges of any nature that are imposed with respect to Posted Credit Support held by the Obligee upon becoming aware of the same, regardless of whether any portion of that Posted Credit Support is subsequently disposed of under Paragraph 6(a) or 6(d), except for transfer, registration, recording or similar taxes that result from the exercise of the rights of the Obligee under Paragraph 6(a) or 6(d).
+
+
+
+
+Liquidation/Application of Posted Credit Support. All reasonable costs and expensesincurred by or on behalf of the Obligee or the Obligor in connection with the liquidation and/or application of any Posted Credit Support under Paragraph 8 will be payable, on demand and pursuant to the Expenses Section of the Agreement, by the Defaulting Party or, if there is no Defaulting Party, equally by the parties.
+
+Paragraph 11. Miscellaneous
+
+Default Interest. An Obligee that fails to make, when due, any Transfer of Posted Collateral or Interest Amount will be obligated to pay the Obligor (to the extent permitted under applicable law) an amount equal to interest at the Default Rate multiplied by the Value of the items of property that were required to be Transferred, from (and including) the date that such Posted Collateral or Interest Amount was required to be Transferred to (but excluding) the date of Transfer of that PostedCollateral or Interest Amount. This interest will be calculated on the basis of daily compounding and the actual number of days elapsed.
+
+Further Assurances. Promptly following a demand made by a party, the other party will execute, deliver, file and record any document and take any other action that may be necessary or desirable and that is reasonably requested by that party to create, preserve, perfect or validate any security interest, lien or any other rights or privileges granted under Paragraph 2, to enable that partyto exercise or enforce its rights under this Annex with respect to any Posted Credit Support or an Interest Amount or to effect or document a release of a security interest over any Posted Pledging Collateral or the termination of the loan of the Posted Lending Collateral.
+
+Further Protection. The Obligor will promptly give notice to the Obligee of, and defend against, any suit, action, proceeding or lien that involves Posted Credit Support Transferred by the Obligor or that could adversely affect the security interest, lien or any other rights or privilegesgranted by it under Paragraph 2, unless that suit, action, proceeding or lien results from the exercise of the Obligee's rights under Paragraph 6(d).
+
+Good Faith and Commercially Reasonable Manner. Performance of all obligations under this Annex, including, but not limited to, all calculations, valuations, currency conversions and determinations made by either party, will be made in good faith and in a commercially reasonable manner.
+
+Demands and Notices. All demands and notices made by a party under this Annex will be made as specified in Section 12 (Notices) of the Agreement, except as otherwise provided in Paragraph 13.
+
+Specifications of Certain Matters. Anything referred to in this Annex as being specified in Paragraph 13 may instead be specified in one or more Confirmations or other documents and this Annex will be construed accordingly.
+
+Governing Law and Jurisdiction. Notwithstanding anything to the contrary, this Annex will be governed by and construed in accordance with Japanese law. With respect to any suit, action or proceedings relating to this Annex, each party irrevocably submits to the non-exclusive jurisdiction of
+
+
+
+the Tokyo District Court. Paragraph 12. Definitions As used in this Annex:-
+"Base Currency" means the currency specified as such in Paragraph 13.
+
+"Base Currency Equivalent" means, with respect to an amount on a Valuation Date, in the case of an amount denominated in the Base Currency, such Base Currency amount and, in the case of an amount denominated in a currency other than the Base Currency, the amount of Base Currency required to purchase such amount of that other currency at the spot exchange rate determined by the Valuation Agent for value on such Valuation Date.
+
+"Cash Deposit" means a bank deposit including any interest accrued thereon in the account ("Deposit Account") opened and maintained in a commercial bank located in Japan and agreed upon by the parties.
+
+"Credit Support Amount" has the meaning specified in Paragraph 3. "Custodian" has the meaning specified in Paragraphs 6(c)(i) and 13. "Delivery Amount" has the meaning specified in Paragraph 3(a). "Disputing Party" has the meaning specified in Paragraph 5.
+"Distributions" means with respect to Posted Collateral in the form of securities, all principal, interest and other payments and distributions of cash or other property with respect thereto less any applicable withholding tax, regardless of whether the Obligee has disposed of that Posted Collateral under Paragraph 6(a) or 6(d).
+
+"Eligible Collateral" means Lending Collateral and Pledging Collateral.
+
+"Eligible Credit Support" means Eligible Collateral and Other Eligible Support.
+
+"Eligible Currency" means each currency specified as such in Paragraph 13, if such currency is freely available.
+
+"Equivalent Collateral" means securities of the same issuer, class, series, maturity, coupon rate and principal amount as Lending Collateral or new or different securities which have been exchanged for, converted into or substituted for Lending Collateral.
+
+"Exposure" means for any Valuation Date or other date for which Exposure is calculated and subject to Paragraph 5 in the case of a dispute, the amount, if any, that would be payable to a party that is the Obligee by the other party (expressed as a positive number) or by a party that is the Obligee to the other party (expressed as a negative number) pursuant to Section 6(e)(ii)(2)(A) of the Agreement as if all Transactions were being terminated as of the relevant Valuation Time; provided that Market
+
+
+
+Quotation will be determined by the Valuation Agent using its estimates at mid-market of the amounts that would be paid for Replacement Transactions (as that term is defined in the definition of "Market Quotation"). *
+
+"Independent Amount" means, with respect to a party, the Base Currency Equivalent of the amount specified as such for that party in Paragraph 13; or if no amount is specified, zero.
+
+"Interest Amount" means, with respect to an Interest Period, the aggregate sum of the Base Currency Equivalents of amounts of interest determined for each relevant currency and calculated for each day in that Interest Period on the principal amount of Posted Lending Collateral in the form of cash in such currency held by the Obligee on that day, determined by the Obligee for each such day as follows:
+
+the amount of that cash in such currency on that day; multiplied by
+
+the Interest Rate in effect for that day; divided by
+
+(z) 365
+
+"Interest Period" means the period from (and including) the last Local Business Day on which an Interest Amount was Transferred (or, if no Interest Amount has yet been Transferred, the Local Business Day on which Posted Lending Collateral in the form of cash was Transferred to or received by the Obligee) to (but excluding) the Local Business Day on which the current Interest Amount is to be Transferred.
+
+"Interest Rate" means with respect to an Eligible Currency, the rate specified in Paragraph 13 for that currency.
+
+"Lending Collateral" means, with respect to a party, the items, if any, specified as such for that party in Paragraph 13.
+
+"Local Business Day", unless otherwise specified in Paragraph 13(h), means:
+
+in relation to a transfer of cash or other property (other than securities) under this Annex, a day on which commercial banks are open for business (including dealings in foreign exchange and foreign currency deposits) in the place where the relevant account is located and, if different, in the principal financial centre, if any, of the currency of such payment;
+
+in relation to a transfer of securities under this Annex, a day on which the clearance system agreed between the parties for delivery of the securities is open for the acceptance and execution of settlement instructions or, if delivery of the securities is contemplated by other means, a day on which commercial banks are open for business (including dealings in foreign exchange and foreign currency deposits) in the place(s) agreed between the parties for this purpose;
+
+in relation to a valuation under this Annex, a day on which commercial banks areopen for business (including dealings in foreign exchange and foreign currency deposits) in
+
+Replace with the 2002 Paragraphs below when 2002 ISDA Master Agreement is used.
+
+
+
+the place of location of the Valuation Agent and in the place(s) agreed between the parties for this purpose; and
+
+in relation to any notice or other communication under this Annex, a day on which commercial banks are open for business (including dealings in foreign exchange and foreign currency deposits) in the place specified in the address for notice most recently provided by the recipient.
+
+"Minimum Transfer Amount" means, with respect to a party, the amount specified as such for that party in Paragraph 13; or if no amount is specified, zero.
+
+"Notification Time" has the meaning specified in Paragraph 13.
+
+"Obligations" means, with respect to a party, all present and future obligations of that party under the Agreement and any additional obligations specified for that party in Paragraph 13.
+
+"Obligee" means either party, when that party (i) makes a demand for or is entitled to receive Eligible Credit Support under Paragraph 3(a) or (ii) holds or is deemed to hold Posted Credit Support.
+
+"Obligor" means either party, when that party (i) receives a demand for or is required to Transfer Eligible Credit Support under Paragraph 3(a) or (ii) has Transferred Eligible Credit Support under Paragraph 3(a).
+
+"Other Eligible Support" means, with respect to a party, the items, if any, specified as such for that party in Paragraph 13.
+
+"Pledging Collateral" means, with respect to a party, the items, if any, specified as such for that party in Paragraph 13.
+
+"Posted Collateral" means Posted Lending Collateral and Posted Pledging Collateral.
+
+"Posted Credit Support" means Posted Collateral and Posted Other Support.
+
+"Posted Lending Collateral" means all Lending Collateral or Equivalent Collateral, Distributions,and all proceeds thereof that have been Transferred to or received by the Obligee under this Annexand not Transferred to the Obligor pursuant to Paragraph 3(b), 4(d)(ii) or 6(e)(A) or released by the Obligee under Paragraph 8. Any Interest Amount or portion thereof not Transferred pursuant to Paragraph 6(e)(B) will constitute Posted Lending Collateral in the form of cash.
+
+"Posted Other Support" means all Other Eligible Support Transferred to the Obligee that remains in effect for the benefit of that Obligee.
+
+"Posted Pledging Collateral" means all Pledging Collateral, Distributions, and all proceeds thereof that have been Transferred to or received by the Obligee under this Annex and not Transferred to the Obligor pursuant to Paragraph 3(b), 4(d)(ii) or 6(e)(A) or released by the Obligee under Paragraph 8.
+
+"Recalculation Date" means the Valuation Date that gives rise to the dispute under Paragraph 5;
+
+
+
+provided, however, that if a subsequent Valuation Date occurs under Paragraph 3 prior to the resolution of the dispute, then the "Recalculation Date" means the most recent Valuation Date under Paragraph 3.
+
+"Resolution Time" has the meaning specified in Paragraph 13.
+
+"Return Amount" has the meaning specified in Paragraph 3(b).
+
+"Specified Condition" means, with respect to a party, any event specified as such for that party in Paragraph 13.
+
+"Substitute Credit Support" has the meaning specified in Paragraph 4(d)(i).
+
+"Substitution Date" has the meaning specified in Paragraph 4(d)(ii).
+
+"Threshold" means, with respect to a party, the Base Currency Equivalent of the amount specified as such for that party in Paragraph 13; or if no amount is specified, zero.
+
+"Transfer" means, with respect to any Eligible Credit Support, Posted Credit Support or Interest Amount, and in accordance with the instructions of the Obligee, Obligor or Custodian, as applicable, as the recipient:
+
+in the case of cash, payment or delivery by wire transfer into one or more bank accounts specified by the recipient;
+
+in the case of certificated securities that will not be paid for or delivered by book- entry or registration, payment or delivery in appropriate physical form to the recipient or its account accompanied by any duly executed instruments of transfer, assignments in blank, transfer tax stamps, if any, and any other documents necessary to constitute a legally valid loan or, transfer to or pledge and perfection of the relevant interest to or for, as applicable, the recipient;
+
+in the case of securities that will be paid or delivered by book-entry, the giving of written or electronic instructions to the relevant depository institution or other entity specified by the recipient, subsequently followed by a written copy thereof to the recipient, sufficient if complied with to result in a legally valid loan or, transfer to or pledge and perfection, as applicable, of the relevant interest to or for the recipient;
+
+in the case of securities that will be paid or delivered by registration, the giving of written or electronic demands for the registration to the relevant registrar which is sufficient if complied with to result in a legally valid loan, transfer or pledge and perfection, as applicable, of the relevant interest to the recipient;
+
+in the case of a Cash Deposit, payment or delivery by wire transfer into the Deposit Account or out of the Deposit Account, as the case may be, together with completion of all requirements necessary to effect a legally valid transfer to, or pledge and perfection of the relevant interest for the recipient; and
+
+
+
+
+in the case of Other Eligible Support or Posted Other Support, as specified in Paragraph 13.
+
+"Valuation Agent" has the meaning specified in Paragraph 13.
+
+"Valuation Date" means each date specified in or otherwise determined pursuant to Paragraph 13.
+
+"Valuation Percentage" means, for any item of Eligible Collateral, the percentage specified in Paragraph 13.
+
+"Valuation Time" has the meaning specified in Paragraph 13.
+
+"Value" means for any Valuation Date or other date for which Value is calculated and subject to Paragraph 5 in the case of a dispute, with respect to:
+
+Eligible Collateral or Posted Collateral that is:
+
+an amount of cash, the Base Currency Equivalent of the amount thereof multiplied by the applicable Valuation Percentage, if any;
+
+JGBs (as defined below) and other securities of which bid and offer quotations are generally available to the Valuation Agent in the over-the-counter market, the Base Currency Equivalent of the bid price quotation obtained by the Valuation Agent multiplied by the applicable Valuation Percentage, if any;
+
+a security that is primarily traded on a recognised securities exchange, the Base Currency Equivalent of the closing price on the exchange or, in the absence of such a closing price, the last bid quotation for the securities on the exchange multiplied by the applicable Valuation Percentage, if any; and
+
+Cash Deposit, the Base Currency Equivalent of the face amount thereof.
+
+Posted Collateral that consists of items that are not specified as Eligible Collateral, zero; and
+
+Other Eligible Support and Posted Other Support, the Base Currency Equivalent ofthe amount as specified in Paragraph 13.
